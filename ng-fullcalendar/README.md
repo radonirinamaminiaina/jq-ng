@@ -32,3 +32,4 @@ To get more help on the `angular-cli` use `ng --help` or go check out the [Angul
 
 ## Using only Angular 2 and create component to instantiate jQuery plugin
 To prevent from creating new jQuery file and create new class in. All actions are in Angular 2.
+The goal is to demonstrate you how to work with Javascript plugin and Angular 2.
