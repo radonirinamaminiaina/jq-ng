@@ -1,0 +1,4 @@
+<app-fullcalendar 
+    [calendarOptions]="options"
+    (onViewRender)="fetchMonthEvent($event)" 
+    (onSelect)="addEvent($event)"></app-fullcalendar>
